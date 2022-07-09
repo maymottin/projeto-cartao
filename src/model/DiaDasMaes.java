@@ -1,8 +1,8 @@
 package model;
 
 public class DiaDasMaes extends CartaoDePresente{
-    public DiaDasMaes(String remetente, String destinatario){
-        super(remetente, destinatario);
+    public DiaDasMaes(String remetente){
+        super(remetente, "Mãe");
     }
 
     @Override
