@@ -6,7 +6,7 @@ public class Natal extends CartaoDePresente{
     }
 
     @Override
-    public String mensagem(){
+    public String mostrarMensagem(){
         return "Feliz Natal! E ótimo Ano Novo também!";
     };
 }

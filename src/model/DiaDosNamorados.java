@@ -6,7 +6,7 @@ public class DiaDosNamorados extends CartaoDePresente{
     }
 
     @Override
-    public String mensagem(){
+    public String mostrarMensagem(){
         return "Feliz Dia dos Namorados! Você é o amor da minha vida!";
     };
 }

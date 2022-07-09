@@ -17,6 +17,6 @@ public abstract class CartaoDePresente {
         return nomeDestinatario;
     }
 
-    public abstract String mensagem();
+    public abstract String mostrarMensagem();
 
 }

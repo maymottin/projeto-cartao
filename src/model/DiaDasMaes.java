@@ -6,7 +6,7 @@ public class DiaDasMaes extends CartaoDePresente{
     }
 
     @Override
-    public String mensagem(){
+    public String mostrarMensagem(){
         return "Feliz Dia das Mães! Te amo muito, mamãe!";
     };
 }
